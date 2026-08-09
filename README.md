@@ -2,19 +2,6 @@
 
 A simple responsive tribute page built with HTML, CSS, and JavaScript.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies](#technologies)
-- [Notes](#notes)
-- [Credits](#credits)
-- [License](#license)
-
 ## Project Overview
 
 This project is a tribute page dedicated to a notable person. It includes a clean layout, responsive design, and a short biography section.
@@ -68,6 +55,12 @@ To view the page:
 
 - Project created as a tribute page example.
 - Inspired by freeCodeCamp / web development learning challenges.
+
+## Author
+
+**Sreeja Pathapelli**
+
+## GitHub:
 
 ## License
 
