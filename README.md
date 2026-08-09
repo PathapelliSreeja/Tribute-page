@@ -60,7 +60,7 @@ To view the page:
 
 **Sreeja Pathapelli**
 
-## GitHub:
+**GitHub:** https://github.com/PathapelliSreeja/Sreeja_2.2
 
 ## License
 
